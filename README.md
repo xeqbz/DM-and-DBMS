@@ -121,4 +121,4 @@
 - description(VARCHAR)
 
 ## Схема БД
-![](DB.drawio.png)
+![](DB.drawio.svg)
